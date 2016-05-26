@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Volumes/DATOS/Rubén Yubero/Master 2016/APPS/Android/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/anim/abc_slide_out_top.xml"
+    }
+]
