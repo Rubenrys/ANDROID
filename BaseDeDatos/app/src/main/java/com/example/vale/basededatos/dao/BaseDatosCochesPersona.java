@@ -112,9 +112,9 @@ public class BaseDatosCochesPersona extends SQLiteOpenHelper {
 
         SQLiteDatabase basedatos = this.getReadableDatabase();
         Cursor cursor = basedatos.rawQuery(consulta, null);
+        
 
-
-        if( cursor != null || cursor.getCount() <=0)
+        if( cursor != null || cursor.getCount() >=0)
         {
             cursor.moveToFirst();
             lista_coches = new ArrayList<Coche>(cursor.getCount());
