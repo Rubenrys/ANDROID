@@ -5,10 +5,6 @@ package com.example.vale.basededatos.dto;
  */
 public class Persona {
 
-
-    //POJO
-    //BEAN DTO
-
     private int id;
     private String nombre;
 
